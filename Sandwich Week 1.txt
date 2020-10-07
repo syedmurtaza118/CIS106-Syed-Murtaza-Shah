@@ -1,0 +1,11 @@
+Input 
+
+Get knife, bread, nutella
+
+Processing
+
+Spread nutella on bread
+
+Output 
+
+Display sandwich 
